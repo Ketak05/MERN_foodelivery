@@ -1,0 +1,55 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# Environment variables
+.env
+.env.*
+
+# Node.js
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Android
+*.apk
+.gradle/
+local.properties
+build/
+captures/
+*.iml
+
+# macOS
+*.DS_Store
+
+# Windows
+*.lnk
